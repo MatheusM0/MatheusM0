@@ -47,5 +47,5 @@ My current work is heavily focused on processing high-volume telemetry data, bui
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [LinkedIn]([https://linkedin.com/in/your-profile-here](https://www.linkedin.com/in/matheus-m0/))
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/matheus-m0/)
 * **Location:** Fortaleza - CE, Brazil 📍
