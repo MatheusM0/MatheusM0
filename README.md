@@ -7,7 +7,7 @@ Building scalable systems, robust infrastructure, and AI-driven solutions. I own
 ### 🚀 Core Expertise
 
 * **Systems Architecture:** Designing and managing resilient infrastructure (Linux, Docker, Proxmox, Nginx, VPNs).
-* **Computer Vision:** Implementing object detection pipelines (YOLOv8) for operational safety and logistics.
+* **Computer Vision:** Implementing object detection pipelines (YOLO) for operational safety and logistics.
 * **Full-Stack Engineering:** Developing high-performance, data-intensive platforms (Next.js, TypeScript, Supabase) for telemetry and mobility.
 * **Technical Delivery:** Translating complex business constraints into maintainable, production-ready software.
 
