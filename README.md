@@ -43,5 +43,5 @@ Atualmente, meu foco se divide entre sistemas de telemetria/mobilidade (processa
 ---
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [Seu-Link-Aqui](https://linkedin.com/in/MatheusM0)
+* **LinkedIn:** [LinkedIn](https://linkedin.com/in/MatheusM0)
 * **Localização:** Fortaleza - CE, Brasil 📍
